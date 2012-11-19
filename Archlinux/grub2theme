@@ -1,0 +1,31 @@
+# Global Property
+title-color: "#50ffff"
+message-font: "Sans Regular 13"
+message-color: "#50ffff"
+message-bg-color: "#000000"
+desktop-color: "#000000"
+desktop-image: "splash.png"
+
+# Show the boot menu
++ label {
+		left=30%
+		width=40%
+		top=400
+		height=20%
+		title-text = "Arch Linux"
+		title-font = "Sans-12"
+		title-color = "#50ffff"
+}
++ boot_menu {
+		left = 30%
+		width = 40%
+		top = 300
+		height = 20%
+		item_font = "Sans-12"
+		selected_item_font = "Sans-14"
+		item_color = "#9033cc"
+		selected_item_color = "#50ffff"
+		item_height = 10 
+		item_padding = 10 
+		item_spacing = 5
+}
