@@ -22,7 +22,7 @@ desktop-image: "splash.png"
 		top = 300
 		height = 20%
 		item_font = "Sans Regular 12"
-		selected_item_font = "Sans Regular 14"
+		selected_item_font = "Sans Regular 12"
 		item_color = "#9033cc"
 		selected_item_color = "#50ffff"
 		item_height = 40 

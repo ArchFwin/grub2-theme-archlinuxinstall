@@ -1,8 +1,0 @@
-Things that need to be done still:
-
--Fonts changed to the correct font
--Modify text colour and placement
--Table of entries
--Code shutdown/reboot options for grub2
--Reduce verbosity of boot options
--Create a valid arch package, submit to AUR
