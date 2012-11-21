@@ -1,11 +1,11 @@
 # Global Property
-title-text:" "
+title-text:"Arch Linux"
 title-font:"Sans Regular 12"
-title-color: "#50ffff"
+title-color: "#35a1c9"
 message-font: "Sans Regular 13"
-message-color: "#50ffff"
-message-bg-color: "#000000"
-desktop-color: "#000000"
+message-color: "#e1e1e1"
+message-bg-color: "#040404"
+desktop-color: "#222222"
 desktop-image: "splash.png"
 
 # Show the boot menu
