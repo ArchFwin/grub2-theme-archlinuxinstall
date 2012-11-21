@@ -22,3 +22,13 @@ desktop-image: "splash.png"
 		item_padding = 5 
 		item_spacing = 5
 }
++ hbox {
+                top = 100%-35
+                left = 20%
+                + label {text = "Enter: " font = "Sans 12" color = "#4c4c4c" align = "left"}
+                + label {text = "Boot Selection     " font = "Sans 12" color = "#1692d0" align = "left"}
+                + label {text = "E: " font = "Sans 12" color = "#4c4c4c" align = "left"}
+                + label {text = "Edit Selection     " font = "Sans 12" color = "#1692d0" align = "left"}
+                + label {text = "C: " font = "Sans 12" color = "#4c4c4c" align = "left"}
+                + label {text = "GRUB Commandline" font = "Sans 12" color = "#1692d0" align = "left"}
+}
