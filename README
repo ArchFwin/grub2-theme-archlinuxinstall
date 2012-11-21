@@ -1,10 +1,11 @@
 grub2-theme-archlinuxinstall
 ============================
 
-Port of the Archlinux bootloader theme from Grub2 to Syslinux
+Port of the Archlinux bootloader theme from Syslinux to Grub2
 
 Things that need to be done still:
 
 -Fonts changed to the correct font
 -Modify text color and placement
 -Table of entries
+-Upload to AUR
